@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sammyosti
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning SQL, Python, CSS, Javascript, PHP, HTML
-- 💞️ I’m looking to collaborate on web development, data engineering, data warehousins, backend engineering, machine learning and data analytics projects
-- 📫 How to reach me via email: sarpongsam@hotmail.com
+- 👋 Hi, I’m Samuel Sarpong
+- 👀 I’m interested in Data Science and Analytics, Machine Learning, Business Intelligence, Web Development, Data Engineering, Data Warehousing and Backend Development
+- 🌱 Skills:  SQL, Python, CSS, Javascript, PHP, HTML, Git, AWS, Django 
+- 💞️ I’m looking to collaborate on web development, data engineering, data warehousing, backend engineering, machine learning and data analytics projects
+- 📫 How to reach me via email: sarpongsam@outlook.com
 
 <!---
 sammyosti/sammyosti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
