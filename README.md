@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Sarpong a Certified AWS Solutions Architect - Associate and AWS Certified Data Engineer Associate
+- 👋 Hi, I’m Samuel Sarpong a Certified AWS Solutions Architect
 - 👀 I’m interested in Data Science and Analytics, Machine Learning, Business Intelligence, Web Development, Data Engineering, Data Warehousing and Backend Development
 - 🌱 Skills:  SQL, Python, CSS, Javascript, PHP, HTML, Git, AWS, Django 
 - 💞️ I’m looking to collaborate on web development, data engineering, data warehousing, backend engineering, machine learning and data analytics projects
